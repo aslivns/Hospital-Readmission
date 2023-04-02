@@ -46,5 +46,7 @@ Please install the following libraries:\
 1. Download the data from the link above
 2. Run the notebooks in order
 
+## Presentation
+You can see the presentation [here]9https://docs.google.com/presentation/d/1cgJ7TtkP8GraYCTg4JwhnnclwIMoK4Ae/edit?usp=share_link&ouid=111284283010545824189&rtpof=true&sd=true)
 
 Asli Veenstra- [@aslivns](https://github.com/aslivns/)
